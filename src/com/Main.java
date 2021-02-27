@@ -36,6 +36,5 @@ public class Main {
                 }
                 double averageSum = sum / amount;
                 System.out.println("Среднее арифмитическое значение положительних чисел " + averageSum);
-
             }
 }
